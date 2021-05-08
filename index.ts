@@ -1,4 +1,4 @@
 let variavel: String;
 
 console.log('Teste');
-console.log('Tá ok');
+console.log('Tá OK');
